@@ -131,10 +131,7 @@
     </div>
 
 
-    <div class="social-links">
-      <a href="https://max.ru/join/ei7iaih7woFIq7ICFUkD0mcB-lRQLHdYxtNvAUA0aa0" target="_blank">Max</a>
-    </div>
-
+   <h1>t.me/Scratch5pro - Мой тг канал </h1>
     <div class    <div class="facts">
       <h3>Несколько фактов обо мне:</h3>
       <ul>
